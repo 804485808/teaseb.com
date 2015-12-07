@@ -129,7 +129,11 @@
         <?php }?>
         <div class="clearfix"></div>
     </div>
-        <?php echo $pages?>
+
+    <div class="Info-page product_page">
+        <div class="pro_center"> <?php echo $pages;?></div>
+    </div>
+
 </div>
 <div class="clearfix"> </div>
 </div>

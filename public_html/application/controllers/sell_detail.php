@@ -22,7 +22,7 @@ class Sell_detail extends MY_Controller {
         $re = $this->category_option->getSellOption($itemid);
         $product['attr'] = $re;
         $data['product'] = $product;
-        dump($product);die;
+//        dump($product);die;
         $this->load->view('header',$data);
         $this->load->view('sell_detail');
     }

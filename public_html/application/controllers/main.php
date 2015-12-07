@@ -28,6 +28,10 @@ class Main extends MY_Controller {
 
 	}
 
+    public function test(){
+        $this->load->view('test');
+    }
+
 
 
 

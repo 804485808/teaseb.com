@@ -11,9 +11,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <!-- Custom Theme files -->
     <link href="<?php echo base_url('/skin/css/style.css')?>" rel='stylesheet' type='text/css' />
+    <link href="<?php echo base_url('/skin/css/motors.css')?>" rel='stylesheet' type='text/css' />
     <!-- Custom Theme files -->
     <!--webfont-->
-    <link href='http://fonts.useso.com/css?family=Raleway:100,200,300,400,500,600,700,800,900' rel='stylesheet' type='text/css'>
+
     <script type="text/javascript" src="<?php echo base_url('/skin/js/jquery-1.11.1.min.js')?>"></script>
     <!-- start menu -->
     <link href="<?php echo base_url('/skin/css/megamenu.css')?>" rel="stylesheet" type="text/css" media="all" />
