@@ -72,10 +72,10 @@
                     <section class="slider_flex">
                         <div class="flexslider">
                             <ul class="slides">
-                                <li><img src="images/m2.jpg" class="img-responsive" alt=""/></li>
-                                <li><img src="images/m3.jpg" class="img-responsive" alt=""/></li>
-                                <li><img src="images/m4.jpg" class="img-responsive" alt=""/></li>
-                                <li><img src="images/m5.jpg" class="img-responsive" alt=""/></li>
+                                <li><img src="<?php echo base_url('/skin/images/m2.jpg')?>" class="img-responsive" alt=""/></li>
+                                <li><img src="<?php echo base_url('/skin/images/m3.jpg')?>" class="img-responsive" alt=""/></li>
+                                <li><img src="<?php echo base_url('/skin/images/m4.jpg')?>" class="img-responsive" alt=""/></li>
+                                <li><img src="<?php echo base_url('/skin/images/m5.jpg')?>" class="img-responsive" alt=""/></li>
                             </ul>
                         </div>
                     </section>
